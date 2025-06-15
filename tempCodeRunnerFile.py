@@ -1,0 +1,2 @@
+if flag:
+        res += character
