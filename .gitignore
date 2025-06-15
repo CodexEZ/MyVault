@@ -3,3 +3,4 @@ venv/
 *.jpg
 *.jpeg
 *.sqlite3
+migrations/
