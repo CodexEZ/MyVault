@@ -106,5 +106,3 @@ class RegisterView(viewsets.ViewSet):
     def check_session(self,request):
         return Response({'message':'Valid token'},status = status.HTTP_200_OK)
     
-def test():
-    return "Everything OKiedokie"
