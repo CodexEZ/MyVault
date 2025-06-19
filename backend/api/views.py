@@ -107,4 +107,4 @@ class RegisterView(viewsets.ViewSet):
         return Response({'message':'Valid token'},status = status.HTTP_200_OK)
     
 def test():
-    return "Everything OKie"
+    return "Everything OKiedokie"
